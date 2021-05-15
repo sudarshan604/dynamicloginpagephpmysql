@@ -1,0 +1,52 @@
+
+ .container{
+    position:relative;
+  top:57px;
+  left:564px;
+  
+ width:60%;
+  height:60%; 
+}
+
+ input{
+     box-sizing: border-box;
+    clear:left;
+    height: 30px;
+     width:200%;
+  padding:15px;
+ margin:5px;
+ border-radius:23px;
+}
+ form{
+     position:absolute;
+     top:193px;
+        left:209px;
+    }
+    tr td{
+        font-size: 20px;
+      font-weight: bolder;
+    }
+    input[type=submit]{
+      
+      padding-bottom: 34px;
+      font-size: 15px;
+      font-weight: bolder;
+    border-radius: 23px;
+    }
+
+    input[type=submit]:hover{
+        
+        color:rgb(0, 0, 0);
+     background-color: rgb(177, 31, 145);
+    }
+
+    h1{
+        color:rgb(192, 37, 127);
+    }
+
+    a{
+        text-decoration: none;
+       font-size: 23px;
+       color:red;
+     
+    }
